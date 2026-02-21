@@ -23,9 +23,6 @@ I am a **Computer Systems Engineer** (Cum Laude) from Universidad Privada Bolivi
 - **[AI Access Control System](https://github.com/Bussy888/face-recon-dashboard):** A security solution featuring facial recognition for facility access.
 - **[Concert Ticketing App](https://github.com/Bussy888/app-conciertos):** A mobile experience for ticket management built with React Native.
 
-### 📊 My GitHub Stats
-![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bussy888&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bussy888&layout=compact&theme=radical)
 
 ---
 
